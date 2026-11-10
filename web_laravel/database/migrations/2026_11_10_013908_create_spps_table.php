@@ -12,8 +12,13 @@ return new class extends Migration
     public function up(): void
     {
         Schema::create('spps', function (Blueprint $table) {
-            $table->id();
-            $table->timestamps();
+            $table->id_spp()-> INT();
+            $table->tahun()-> INT() -> notnull;
+            $table->nominal()-> varchar(10);
+            $table->nama_petugas()-> varchar(50);
+            $table->level();
+            $table->created_at();
+            $table->updated_at();
         });
     }
 

@@ -12,8 +12,11 @@ return new class extends Migration
     public function up(): void
     {
         Schema::create('kelas', function (Blueprint $table) {
-            $table->id();
-            $table->timestamps();
+            $table->id_kelas() -> INT();
+            $table->nama_kelas() -> Varchar(20);
+            $table->kopetensi_keahlian() -> Varchar(20);
+            $table->nama_kelas() -> Varchar(20);
+            $table->nama_kelas() -> Varchar(20);
         });
     }
 
