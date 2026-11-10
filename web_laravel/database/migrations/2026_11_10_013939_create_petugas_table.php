@@ -12,8 +12,13 @@ return new class extends Migration
     public function up(): void
     {
         Schema::create('petugas', function (Blueprint $table) {
-            $table->id();
-            $table->timestamps();
+            $table->id('id_petugas')->NOTNULL();
+            $table->string('username',30)->NOTNULL();
+            $table->string('password',30)->NOTNULL();
+            $table->string('nama_petugas',30)->NOTNULL();
+            $table->char('level',30)->NOTNULL();
+            $table->timestamp('created_at')->NOTNULL();
+            $table->timestamp('updated_at')->NOTNULL();
         });
     }
 

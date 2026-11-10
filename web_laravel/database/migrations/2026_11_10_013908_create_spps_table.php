@@ -12,13 +12,12 @@ return new class extends Migration
     public function up(): void
     {
         Schema::create('spps', function (Blueprint $table) {
-            $table->id_spp()-> INT();
-            $table->tahun()-> INT() -> notnull;
-            $table->nominal()-> varchar(10);
-            $table->nama_petugas()-> varchar(50);
-            $table->level();
-            $table->created_at();
-            $table->updated_at();
+            $table->id('id_spp')->int();
+            $table->id('tahun')->int()->NOTNULL();
+            $table->string('nominal',10)->int()->NOTNULL();
+            $table->string('keterangan',30)->NOTNULL();
+            $table->timestamp('created_at')->NOTNULL();
+            $table->timestamp('updated_at')->NOTNULL();
         });
     }
 

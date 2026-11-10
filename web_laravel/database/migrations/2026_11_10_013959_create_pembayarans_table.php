@@ -13,14 +13,15 @@ return new class extends Migration
     {
         Schema::create('pembayarans', function (Blueprint $table) {
             $table->id('id_pembayaran')->int();
-            $table->id('id_petugas');
-            $table->char('nisn',10);
-            $table->date('tgl_bayar');
-            $table->string('bulan_bayar',20);
-            $table->string('tahun_bayar',4);
+            $table->id('id_petugas')->NOTNULL();
+            $table->char('nisn',10)->NOTNULL();
+            $table->date('tgl_bayar')->NOTNULL();
+            $table->string('bulan_bayar',20)->NOTNULL();
+            $table->string('tahun_bayar',4)->NOTNULL();
             $table->id('id_spp') ->INT();
-            $table->id('id_petugas');
-            $table->id('id_petugas');
+            $table->char('jumlsh_pembayaran',20)->NOTNULL();
+            $table->timestamp('id_petugas');
+            $table->timestamp('id_petugas');
         });
     }
 
