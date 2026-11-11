@@ -3,7 +3,43 @@
   "WorkspaceRootPath": "D:\\ukk-spp-rpl-xii-[0096879959]-[Aldiansyah]\\desktop-csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{392487FD-16FC-4453-8059-A358DF27F406}|desktop-csharp.csproj|d:\\ukk-spp-rpl-xii-[0096879959]-[aldiansyah]\\desktop-csharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{392487FD-16FC-4453-8059-A358DF27F406}|desktop-csharp.csproj|d:\\ukk-spp-rpl-xii-[0096879959]-[aldiansyah]\\desktop-csharp\\views\\formregisterpetugas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392487FD-16FC-4453-8059-A358DF27F406}|desktop-csharp.csproj|solutionrelative:views\\formregisterpetugas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392487FD-16FC-4453-8059-A358DF27F406}|desktop-csharp.csproj|d:\\ukk-spp-rpl-xii-[0096879959]-[aldiansyah]\\desktop-csharp\\views\\formregisterpetugas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{392487FD-16FC-4453-8059-A358DF27F406}|desktop-csharp.csproj|solutionrelative:views\\formregisterpetugas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392487FD-16FC-4453-8059-A358DF27F406}|desktop-csharp.csproj|D:\\ukk-spp-rpl-xii-[0096879959]-[Aldiansyah]\\desktop-csharp\\views\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{392487FD-16FC-4453-8059-A358DF27F406}|desktop-csharp.csproj|solutionrelative:views\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392487FD-16FC-4453-8059-A358DF27F406}|desktop-csharp.csproj|D:\\ukk-spp-rpl-xii-[0096879959]-[Aldiansyah]\\desktop-csharp\\views\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392487FD-16FC-4453-8059-A358DF27F406}|desktop-csharp.csproj|solutionrelative:views\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392487FD-16FC-4453-8059-A358DF27F406}|desktop-csharp.csproj|D:\\ukk-spp-rpl-xii-[0096879959]-[Aldiansyah]\\desktop-csharp\\config\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392487FD-16FC-4453-8059-A358DF27F406}|desktop-csharp.csproj|solutionrelative:config\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392487FD-16FC-4453-8059-A358DF27F406}|desktop-csharp.csproj|D:\\ukk-spp-rpl-xii-[0096879959]-[Aldiansyah]\\desktop-csharp\\models\\sessionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392487FD-16FC-4453-8059-A358DF27F406}|desktop-csharp.csproj|solutionrelative:models\\sessionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392487FD-16FC-4453-8059-A358DF27F406}|desktop-csharp.csproj|D:\\ukk-spp-rpl-xii-[0096879959]-[Aldiansyah]\\desktop-csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392487FD-16FC-4453-8059-A358DF27F406}|desktop-csharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392487FD-16FC-4453-8059-A358DF27F406}|desktop-csharp.csproj|D:\\ukk-spp-rpl-xii-[0096879959]-[Aldiansyah]\\desktop-csharp\\views\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{392487FD-16FC-4453-8059-A358DF27F406}|desktop-csharp.csproj|solutionrelative:views\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392487FD-16FC-4453-8059-A358DF27F406}|desktop-csharp.csproj|D:\\ukk-spp-rpl-xii-[0096879959]-[Aldiansyah]\\desktop-csharp\\views\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392487FD-16FC-4453-8059-A358DF27F406}|desktop-csharp.csproj|solutionrelative:views\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392487FD-16FC-4453-8059-A358DF27F406}|desktop-csharp.csproj|D:\\ukk-spp-rpl-xii-[0096879959]-[Aldiansyah]\\desktop-csharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{392487FD-16FC-4453-8059-A358DF27F406}|desktop-csharp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -14,23 +50,130 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "D:\\ukk-spp-rpl-xii-[0096879959]-[Aldiansyah]\\desktop-csharp\\Config\\Koneksi.cs",
+              "RelativeDocumentMoniker": "Config\\Koneksi.cs",
+              "ToolTip": "D:\\ukk-spp-rpl-xii-[0096879959]-[Aldiansyah]\\desktop-csharp\\Config\\Koneksi.cs",
+              "RelativeToolTip": "Config\\Koneksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T00:19:24.641Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FormRegisterPetugas.cs",
+              "DocumentMoniker": "D:\\ukk-spp-rpl-xii-[0096879959]-[Aldiansyah]\\desktop-csharp\\Views\\FormRegisterPetugas.cs",
+              "RelativeDocumentMoniker": "Views\\FormRegisterPetugas.cs",
+              "ToolTip": "D:\\ukk-spp-rpl-xii-[0096879959]-[Aldiansyah]\\desktop-csharp\\Views\\FormRegisterPetugas.cs*",
+              "RelativeToolTip": "Views\\FormRegisterPetugas.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA2wCQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T06:21:33.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "D:\\ukk-spp-rpl-xii-[0096879959]-[Aldiansyah]\\desktop-csharp\\Views\\FormLogin.cs",
+              "RelativeDocumentMoniker": "Views\\FormLogin.cs",
+              "ToolTip": "D:\\ukk-spp-rpl-xii-[0096879959]-[Aldiansyah]\\desktop-csharp\\Views\\FormLogin.cs [Design]",
+              "RelativeToolTip": "Views\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T00:22:44.814Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "D:\\ukk-spp-rpl-xii-[0096879959]-[Aldiansyah]\\desktop-csharp\\Views\\FormLogin.cs",
+              "RelativeDocumentMoniker": "Views\\FormLogin.cs",
+              "ToolTip": "D:\\ukk-spp-rpl-xii-[0096879959]-[Aldiansyah]\\desktop-csharp\\Views\\FormLogin.cs",
+              "RelativeToolTip": "Views\\FormLogin.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T00:28:13.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormRegisterPetugas.cs [Design]",
+              "DocumentMoniker": "D:\\ukk-spp-rpl-xii-[0096879959]-[Aldiansyah]\\desktop-csharp\\Views\\FormRegisterPetugas.cs",
+              "RelativeDocumentMoniker": "Views\\FormRegisterPetugas.cs",
+              "ToolTip": "D:\\ukk-spp-rpl-xii-[0096879959]-[Aldiansyah]\\desktop-csharp\\Views\\FormRegisterPetugas.cs [Design]*",
+              "RelativeToolTip": "Views\\FormRegisterPetugas.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T00:23:14.133Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SessionUser.cs",
+              "DocumentMoniker": "D:\\ukk-spp-rpl-xii-[0096879959]-[Aldiansyah]\\desktop-csharp\\Models\\SessionUser.cs",
+              "RelativeDocumentMoniker": "Models\\SessionUser.cs",
+              "ToolTip": "D:\\ukk-spp-rpl-xii-[0096879959]-[Aldiansyah]\\desktop-csharp\\Models\\SessionUser.cs",
+              "RelativeToolTip": "Models\\SessionUser.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T00:21:55.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ukk-spp-rpl-xii-[0096879959]-[Aldiansyah]\\desktop-csharp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ukk-spp-rpl-xii-[0096879959]-[Aldiansyah]\\desktop-csharp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T00:49:49.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\ukk-spp-rpl-xii-[0096879959]-[Aldiansyah]\\desktop-csharp\\Views\\dashboard.cs",
+              "RelativeDocumentMoniker": "Views\\dashboard.cs",
+              "ToolTip": "D:\\ukk-spp-rpl-xii-[0096879959]-[Aldiansyah]\\desktop-csharp\\Views\\dashboard.cs [Design]",
+              "RelativeToolTip": "Views\\dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T00:25:48.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormDashboard.cs",
+              "DocumentMoniker": "D:\\ukk-spp-rpl-xii-[0096879959]-[Aldiansyah]\\desktop-csharp\\Views\\FormDashboard.cs",
+              "RelativeDocumentMoniker": "Views\\FormDashboard.cs",
+              "ToolTip": "D:\\ukk-spp-rpl-xii-[0096879959]-[Aldiansyah]\\desktop-csharp\\Views\\FormDashboard.cs",
+              "RelativeToolTip": "Views\\FormDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T00:23:44.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\ukk-spp-rpl-xii-[0096879959]-[Aldiansyah]\\desktop-csharp\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\ukk-spp-rpl-xii-[0096879959]-[Aldiansyah]\\desktop-csharp\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T01:40:59.624Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2026-11-09T01:40:59.624Z"
             }
           ]
         }
